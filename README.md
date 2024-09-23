@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kv-codesstuff
-- 👀 I’m interested in Software Development,Modding,Machine Learning.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Projects Based on C++,Python
+- 👀 I’m interested in Software Development, Game Development, Android Development, Machine Learning.
+- 🌱 I’m currently learning Android with java
+- 💞️ I’m looking to collaborate on Projects Based on Java, Kotlin
